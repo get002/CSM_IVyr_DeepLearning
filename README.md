@@ -7,8 +7,8 @@
 ### Syllabus
 <hr/>
 
-## UNIT-I<br/>
-- <b>Artificial Neural Networks Introduction</b><br/>
+## UNIT-01<br/>
+-<b> Artificial Neural Networks Introduction</b><br/>
   > Basic models of ANN<br/>
   > important terminologies<br/>
 - <b>Supervised Learning Networks</b><br/>
@@ -19,7 +19,7 @@
   > Training Algorithms for pattern association<br/>
   > BAM and Hopfield Networks.<br/>
 
-## UNIT-II<br/>
+## UNIT-02<br/>
 -<b> Unsupervised Learning Network- Introduction</b><br/>
   > Fixed Weight Competitive Nets<br/>
   > Maxnet<br/>
@@ -30,7 +30,7 @@
   > Adaptive Resonance Theory Networks<br/>
 - <b>Special Networks</b>-Introduction to various networks.</b><br/>
 
-## UNIT - III<br/>
+## UNIT - 03<br/>
 -<b> Introduction to Deep Learning</b><br/>
   > Historical Trends in Deep learning<br/>
   > Deep Feed - forward networks<br/>
@@ -38,7 +38,7 @@
   > Hidden Units, Architecture Design<br/>
   > Back-Propagation and Other Differentiation Algorithms<br/>
 
-## UNIT - IV<br/>
+## UNIT - 04<br/>
 -<b> Regularization for Deep Learning</b><br/>
   > Parameter norm Penalties<br/>
   > Norm Penalties as Constrained Optimization<br/>
@@ -55,7 +55,7 @@
   > Adversarial Training<br/>
   > Tangent Distance, tangent Prop and Manifold, Tangent Classifier<br/>
 
-## UNIT - V<br/>
+## UNIT - 05<br/>
 -<b> Optimization for Train Deep Models</b><br/>
   > Challenges in Neural Network Optimization<br/>
   > Basic Algorithms<br/>
@@ -69,3 +69,17 @@
   > Computer Vision<br/>
   > Speech Recognition<br/>
   > Natural Language Processing<br/>
+
+<hr/>
+## Neural Networks & Deep Learning Lab
+<hr/>
+<b>LIST OF EXPERIMENTS<b/>:
+1.Setting up the Spyder IDE Environment and Executing a Python Program
+2.Installing Keras, Tensorflow and Pytorch libraries and making use of them
+3.Applying the Convolution Neural Network on computer vision problems
+4.Image classification on MNIST dataset (CNN model with Fully connected layer)
+5.Applying the Deep Learning Models in the field of Natural Language Processing
+6.Train a sentiment analysis model on IMDB dataset, use RNN layers with LSTM/GRU notes
+7.Applying the Autoencoder algorithms for encoding the real-world data
+8.Applying Generative Adversial Networks for image generation and unsupervised tasks.
+
