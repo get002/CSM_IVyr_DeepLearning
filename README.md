@@ -45,6 +45,7 @@
   > Regularization and Under-Constrained Problems<br/>
   > Dataset Augmentation<br/>
   > Noise Robustness<br/>
+  
 -<b> Semi-Supervised learning</b><br/>
   > Multi-task learning, Early Stopping<br/>
   > Parameter Typing and Parameter Sharing<br/>
