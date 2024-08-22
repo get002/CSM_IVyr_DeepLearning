@@ -9,7 +9,7 @@
 -<b> Artificial Neural Networks Introduction</b><br/>
   > Basic models of ANN<br/>
   > important terminologies<br/>
-- <b>Supervised Learning Networks</b><br/>
+-<b> Supervised Learning Networks</b><br/>
   > Perceptron Networks<br/>
   > Adaptive Linear Neuron<br/>
   > Back-propagation Network<br/>
@@ -69,6 +69,7 @@
   > Natural Language Processing<br/>
 
 <hr/>
+
 ## Neural Networks & Deep Learning Lab
 <hr/>
 <b>LIST OF EXPERIMENTS<b/>:
