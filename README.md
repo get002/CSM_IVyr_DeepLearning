@@ -56,7 +56,7 @@
   > Tangent Distance, tangent Prop and Manifold, Tangent Classifier<br/>
 
 ## UNIT - V<br/>
-- <b>Optimization for Train Deep Models</b><br/>
+-<b> Optimization for Train Deep Models</b><br/>
   > Challenges in Neural Network Optimization<br/>
   > Basic Algorithms<br/>
   > Parameter Initialization Strategies<br/>
