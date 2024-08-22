@@ -28,7 +28,7 @@
   > Learning Vector Quantization<br/>
   > Counter Propagation Networks<br/>
   > Adaptive Resonance Theory Networks<br/>
-- Special Networks-Introduction to various networks.</b><br/>
+- <b>Special Networks</b>-Introduction to various networks.</b><br/>
 
 ## UNIT - III<br/>
 -<b> Introduction to Deep Learning</b><br/>
@@ -45,6 +45,7 @@
   > Regularization and Under-Constrained Problems<br/>
   > Dataset Augmentation<br/>
   > Noise Robustness<br/>
+  
 - <b>Semi-Supervised learning</b><br/>
   > Multi-task learning, Early Stopping<br/>
   > Parameter Typing and Parameter Sharing<br/>
