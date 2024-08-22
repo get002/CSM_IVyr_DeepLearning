@@ -1,70 +1,70 @@
 # CM701PC-Neural Networks & Deep Learning
 <hr/>
 
-## B.Tech. IV Year I Sem.
+### B.Tech. IV Year I Sem.
 <hr/>
 
-## Syllabus
+### Syllabus
 <hr/>
 
-# UNIT-I
-- <b>Artificial Neural Networks Introduction</b>
-  > Basic models of ANN
-  > important terminologies
-- <b>Supervised Learning Networks</b>
-  > Perceptron Networks
-  > Adaptive Linear Neuron
-  > Back-propagation Network
-  > Associative Memory Networks
-  > Training Algorithms for pattern association
-  > BAM and Hopfield Networks.
+## UNIT-I<br/>
+- <b>Artificial Neural Networks Introduction</b><br/>
+  > Basic models of ANN<br/>
+  > important terminologies<br/>
+- <b>Supervised Learning Networks</b><br/>
+  > Perceptron Networks<br/>
+  > Adaptive Linear Neuron<br/>
+  > Back-propagation Network<br/>
+  > Associative Memory Networks<br/>
+  > Training Algorithms for pattern association<br/>
+  > BAM and Hopfield Networks.<br/>
 
-# UNIT-II
--<b> Unsupervised Learning Network- Introduction</b>
-  > Fixed Weight Competitive Nets
-  > Maxnet
-  > Hamming Network
-  > Kohonen Self-Organizing Feature Maps
-  > Learning Vector Quantization
-  > Counter Propagation Networks
-  > Adaptive Resonance Theory Networks
-- Special Networks-Introduction to various networks.</b>
+## UNIT-II<br/>
+-<b> Unsupervised Learning Network- Introduction</b><br/>
+  > Fixed Weight Competitive Nets<br/>
+  > Maxnet<br/>
+  > Hamming Network<br/>
+  > Kohonen Self-Organizing Feature Maps<br/>
+  > Learning Vector Quantization<br/>
+  > Counter Propagation Networks<br/>
+  > Adaptive Resonance Theory Networks<br/>
+- Special Networks-Introduction to various networks.</b><br/>
 
-# UNIT - III
--<b> Introduction to Deep Learning</b>
-  > Historical Trends in Deep learning
-  > Deep Feed - forward networks
-  > Gradient-Based learning
-  > Hidden Units, Architecture Design
-  > Back-Propagation and Other Differentiation Algorithms
+## UNIT - III<br/>
+-<b> Introduction to Deep Learning</b><br/>
+  > Historical Trends in Deep learning<br/>
+  > Deep Feed - forward networks<br/>
+  > Gradient-Based learning<br/>
+  > Hidden Units, Architecture Design<br/>
+  > Back-Propagation and Other Differentiation Algorithms<br/>
 
-# UNIT - IV
--<b> Regularization for Deep Learning</b>
-  > Parameter norm Penalties
-  > Norm Penalties as Constrained Optimization
-  > Regularization and Under-Constrained Problems
-  > Dataset Augmentation
-  > Noise Robustness
-- <b>Semi-Supervised learning</b>
-  > Multi-task learning, Early Stopping
-  > Parameter Typing and Parameter Sharing
-  > Sparse Representations
-  > Bagging and other Ensemble Methods
-  > Dropout
-  > Adversarial Training
-  > Tangent Distance, tangent Prop and Manifold, Tangent Classifier
+## UNIT - IV<br/>
+-<b> Regularization for Deep Learning</b><br/>
+  > Parameter norm Penalties<br/>
+  > Norm Penalties as Constrained Optimization<br/>
+  > Regularization and Under-Constrained Problems<br/>
+  > Dataset Augmentation<br/>
+  > Noise Robustness<br/>
+- <b>Semi-Supervised learning</b><br/>
+  > Multi-task learning, Early Stopping<br/>
+  > Parameter Typing and Parameter Sharing<br/>
+  > Sparse Representations<br/>
+  > Bagging and other Ensemble Methods<br/>
+  > Dropout<br/>
+  > Adversarial Training<br/>
+  > Tangent Distance, tangent Prop and Manifold, Tangent Classifier<br/>
 
-# UNIT - V
-- <b>Optimization for Train Deep Models</b>
-  > Challenges in Neural Network Optimization
-  > Basic Algorithms
-  > Parameter Initialization Strategies
-  > Algorithms with Adaptive Learning Rates
-  > Approximate Second- Order Methods
-  > Optimization Strategies
-  > Meta-Algorithms
--<b> Applications</b>
-  > Large-Scale Deep Learning
-  > Computer Vision
-  > Speech Recognition
-  > Natural Language Processing
+## UNIT - V<br/>
+- <b>Optimization for Train Deep Models</b><br/>
+  > Challenges in Neural Network Optimization<br/>
+  > Basic Algorithms<br/>
+  > Parameter Initialization Strategies<br/>
+  > Algorithms with Adaptive Learning Rates<br/>
+  > Approximate Second- Order Methods<br/>
+  > Optimization Strategies<br/>
+  > Meta-Algorithms<br/>
+-<b> Applications</b><br/>
+  > Large-Scale Deep Learning<br/>
+  > Computer Vision<br/>
+  > Speech Recognition<br/>
+  > Natural Language Processing<br/>
